@@ -46,13 +46,13 @@
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
-          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
+        <a href="https://blog.naver.com/jisub44/223410115770" title="Algorithm">
+          <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/cea48dd0-b680-4594-a6f5-991ada90cb4d" width="300" alt-text="Algorithm">
         </a>
       </td>
       <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
-        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
+        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="Book">
+        <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/e303fd85-7be3-42ed-a5c8-aa4d4ca89aa6" width="300" alt-text="Book">
           </a>
       </td>
     </tr>
