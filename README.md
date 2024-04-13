@@ -41,8 +41,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="2022 웹개발 로드맵 총정리 (공부순서 알려드림) | 올해는 정말 해보자 🚀">
-          <img width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/assets/127164661/90dd8ff1-be31-429e-8488-5ad562a8a8f6">
+        <a href="https://blog.naver.com/jisub44/223354147501" title="Crossfit">
+          <img width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/issues/1#issue-2241350444">
         </a>
       </td>
       <td>
