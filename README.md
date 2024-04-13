@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/jisub12/jisub12/assets/127164661/ae5e095b-9950-448f-ba2b-550b06baf264" width="4000" height="300"/>
 
-<h1> Hi, I'm jisub hwang <img src="https://github.com/jisub12/jisub12/assets/127164661/e8a85539-6fa1-450a-b464-04aab30a03a2" height="30"></h1>
+<h1> Hi, I'm paJion <img src="https://github.com/jisub12/jisub12/assets/127164661/e8a85539-6fa1-450a-b464-04aab30a03a2" height="30"></h1>
   <em>
     <h3>
     I've been at the helm of an esports pro team for over 8 years, steering through the dynamic world of competitive gaming.
@@ -58,42 +58,19 @@
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://blog.naver.com/jisub44/>More...</a></em></b>
+<b><em><a href="https://blog.naver.com/jisub44/">Instagram</a></em></b>
+
 
 <br/>
 <br/>
-
-<h2>My popular courses</h2> 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/react" title="리액트 개념정리 · 클론코딩">
-          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/React_Course_2022_Thumbnail_1_22adc8b602.gif" width="300" alt-text="React Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트·객체지향 프로그래밍">
-          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/Type_Script_Course_Thumbnail_06091d592c.gif" width="300" alt-text="TypeScript Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z">
-          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/node_course_thumbnail_c0abdc5412.webp" width="300" alt-text="NodeJS Course">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b><em><a href="https://academy.dream-coding.com">Study with me!</a></em></b>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/dream-ellie" title="GitHub Dream Ellie">
-    <img src="https://img.shields.io/github/followers/dream-ellie?label=follow&style=social" alt-text="GitHub Dream Ellie" height="30"/>
+  <a href="https://github.com/jisub12/" title="GitHub paJion">
+    <img src="https://img.shields.io/github/followers/paJion?label=follow&style=social" alt-text="GitHub paJion" height="30"/>
   </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="드림코딩 by 엘리">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
+  <a href="https://blog.naver.com/jisub44" title="paJion">
+    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="blog" height="30"/>
   </a>
 </p>
