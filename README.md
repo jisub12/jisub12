@@ -23,20 +23,8 @@
 </p>
 
 <br />
-<h2> My tech stack ❤️ </h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-46a2f1?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
-<br/>
-
-<h2>My Favorite Things</h2>
+<h2>My Favorite Things 🩷 </h2>
 <table>
   <tbody>
     <tr>
@@ -58,19 +46,36 @@
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://blog.naver.com/jisub44/">Instagram</a></em></b>
-
+<b><em><a href="https://blog.naver.com/jisub44/">More...</a></em></b>
 
 <br/>
+
+<h2> My tech stack 🧡 </h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-46a2f1?style=for-the-badge&logo=solidity&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
 <br/>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/jisub12/" title="GitHub paJion">
-    <img src="https://img.shields.io/github/followers/paJion?label=follow&style=social" alt-text="GitHub paJion" height="30"/>
+
+<p align="center" margin="10">
+  <a href="https://www.instagram.com/jisub.h/" title="Instagram paJion">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt-text="Instagram" height="30"/>
   </a>
-  <a href="https://blog.naver.com/jisub44" title="paJion">
-    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="blog" height="30"/>
+  <a href="https://blog.naver.com/jisub44/" title="Blog paJion">
+    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="Naver blog" height="30"/>
+  </a>
+  <a href="https://github.com/jisub12/" title="GitHub paJion">
+    <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="GitHub jisub12" height="30"/>
   </a>
 </p>
+
+
