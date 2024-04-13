@@ -42,7 +42,7 @@
     <tr>
       <td>
         <a href="https://blog.naver.com/jisub44/223354147501" title="Crossfit">
-          <video width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/assets/127164661/ce06cfe8-b4f3-473d-9696-64ed4e844d7a">
+          <video width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/assets/127164661/e36db3fc-7b39-410f-b8e4-2badf913ceb0">
         </a>
       </td>
       <td>
