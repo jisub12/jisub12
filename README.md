@@ -51,14 +51,14 @@
         </a>
       </td>
       <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="Book">
+        <a href="https://blog.naver.com/jisub44/223133583658" title="Book">
         <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/e303fd85-7be3-42ed-a5c8-aa4d4ca89aa6" width="300" alt-text="Book">
           </a>
       </td>
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">More videos...</a></em></b>
+<b><em><a href="https://blog.naver.com/jisub44/>More...</a></em></b>
 
 <br/>
 <br/>
