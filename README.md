@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2>내가 좋아하는 것들</h2>
+<h2>My Favorite Things</h2>
 <table>
   <tbody>
     <tr>
