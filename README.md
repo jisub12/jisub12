@@ -13,10 +13,10 @@
   <em>
   <h3>
     And now, as a developer, I'm eager to navigate the vast world of coding.
-    <a href="https://blog.naver.com/jisub44">
+<!--     <a href="https://blog.naver.com/jisub44">
       Personal Blog
       <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" width="50" height="30"/>
-    </a>
+    </a> -->
   </h3>
     </em>
   </em>
