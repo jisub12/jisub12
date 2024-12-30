@@ -38,7 +38,7 @@
           <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/cea48dd0-b680-4594-a6f5-991ada90cb4d" width="300" alt-text="Algorithm">
         </a> -->
         <a href="https://blog.naver.com/jisub44/223410115770" title="food_influencer">
-          <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/cea48dd0-b680-4594-a6f5-991ada90cb4d" width="300" alt-text="food_influencer">
+          <img align="center" src="https://github.com/jisub12/jisub12/issues/4#issue-2762575571" width="300" alt-text="food_influencer">
         </a>
       </td>
       <td>
