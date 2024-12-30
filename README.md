@@ -29,20 +29,20 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://blog.naver.com/jisub44/223354147501" title="Crossfit">
+        <a href="https://blog.naver.com/jisub44/223354147501" title="crossfit">
           <video width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/assets/127164661/e36db3fc-7b39-410f-b8e4-2badf913ceb0">
         </a>
       </td>
       <td>
-<!--         <a href="https://blog.naver.com/jisub44/223410115770" title="Algorithm">
+        <a href="https://blog.naver.com/jisub44/223410115770" title="algorithm">
           <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/cea48dd0-b680-4594-a6f5-991ada90cb4d" width="300" alt-text="Algorithm">
-        </a> -->
-        <a href="https://blog.naver.com/jisub44/223410115770" title="food_influencer">
-          <img align="center" src="https://github.com/jisub12/jisub12/issues/4#issue-2762575571" width="300" alt-text="food_influencer">
         </a>
+<!--         <a href="https://blog.naver.com/jisub44/223410115770" title="food_influencer">
+          <img align="center" src="https://github.com/jisub12/jisub12/issues/4#issue-2762575571" width="300" alt-text="food_influencer">
+        </a> -->
       </td>
       <td>
-        <a href="https://blog.naver.com/jisub44/223133583658" title="Book">
+        <a href="https://blog.naver.com/jisub44/223133583658" title="book">
         <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/e303fd85-7be3-42ed-a5c8-aa4d4ca89aa6" width="300" alt-text="Book">
           </a>
       </td>
@@ -69,15 +69,14 @@
 ---
 
 <p align="center" margin="10">
-  <a href="https://www.instagram.com/jisub.h/" title="Instagram paJion">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt-text="Instagram" height="30"/>
+  <a href="https://www.instagram.com/jisub.h/" title="instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt-text="instagram" height="30"/>
   </a>
-  <a href="https://blog.naver.com/jisub44/" title="Blog paJion">
-    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="Naver blog" width="120" height="30"/>
+  <a href="https://blog.naver.com/jisub44/" title="blog">
+    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="blog" width="120" height="30"/>
   </a>
-  <a href="https://github.com/jisub12/" title="GitHub paJion">
-<!--     <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="GitHub jisub12" height="30"/> -->
-    <img src="https://img.shields.io/github/followers/jisub12" alt-text="GitHub jisub12" height="30"/>
+  <a href="https://github.com/jisub12/" title="github">
+    <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="github" height="30"/>
   </a>
 </p>
 
