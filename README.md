@@ -73,7 +73,8 @@
     <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="Naver blog" width="120" height="30"/>
   </a>
   <a href="https://github.com/jisub12/" title="GitHub paJion">
-    <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="GitHub jisub12" height="30"/>
+<!--     <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="GitHub jisub12" height="30"/> -->
+    <img src="https://img.shields.io/github/followers/jisub12" alt-text="GitHub jisub12" height="30"/>
   </a>
 </p>
 
