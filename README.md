@@ -13,10 +13,6 @@
   <em>
   <h3>
     And now, as a developer, I'm eager to navigate the vast world of coding.
-<!--     <a href="https://blog.naver.com/jisub44">
-      Personal Blog
-      <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" width="50" height="30"/>
-    </a> -->
   </h3>
     </em>
   </em>
@@ -31,14 +27,6 @@
       <td>
         <a href="https://blog.naver.com/jisub44/223354147501" title="crossfit">
           <video width="300" alt="Crossfit" src="https://github.com/jisub12/jisub12/assets/127164661/e36db3fc-7b39-410f-b8e4-2badf913ceb0">
-        </a>
-      </td>
-      <td>
-        <a href="https://blog.naver.com/jisub44/223410115770" title="algorithm">
-          <img align="center" src="https://github.com/jisub12/jisub12/assets/127164661/cea48dd0-b680-4594-a6f5-991ada90cb4d" width="300" alt-text="Algorithm">
-        </a>
-        <a href="https://blog.naver.com/jisub44/223410115770" title="food_influencer">
-          <img align="center" src="https://github.com/jisub12/jisub12/issues/4#issue-2762575571" width="300" alt-text="food_influencer">
         </a>
       </td>
       <td>
@@ -72,9 +60,6 @@
   <a href="https://www.instagram.com/jisub.h/" title="instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt-text="instagram" height="30"/>
   </a>
-  <!-- <a href="https://blog.naver.com/jisub44/" title="blog">
-    <img src="https://github.com/jisub12/jisub12/assets/127164661/96437569-6c71-4c83-9c72-58b5d199e0c5" alt-text="blog" width="120" height="30"/>
-  </a> -->
   <a href="https://github.com/jisub12/" title="github">
     <img src="https://img.shields.io/github/followers/jisub12?label=follow&style=social" alt-text="github" height="30"/>
   </a>
